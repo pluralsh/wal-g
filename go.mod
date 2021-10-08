@@ -64,5 +64,5 @@ require (
 )
 
 replace (
-	github.com/wal-g/storages => github.com/pluralsh/storages v0.0.0-20210619005112-3ea7da3e3649
+	github.com/wal-g/storages => github.com/pluralsh/storages v0.0.0-20210514021605-dffa2d187dbd
 )
